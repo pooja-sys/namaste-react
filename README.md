@@ -51,5 +51,9 @@ Edit
 npx parcel build index.html
 Additional Setup
 Initialize npm → npm init
-Optimize browser support in package.json → Add "browserslist" for better optimizations.
-
+Optimize browser support in package.json → Add "browserslist" for better optimizations.pacakage.json add browserlist 
+create the package.json inside add start : parcel index.html run code in development mode
+build: parcel build index.htm
+react is an element and object when render on to the dom is html
+jsx is not html
+jsx is html like syntax
